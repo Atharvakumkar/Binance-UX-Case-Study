@@ -2,10 +2,13 @@ function Improvement() {
   return (
     <div>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <h1 className = "font-heading px-20 pt-10 text-white text-[28px]">Areas of <span className = "text-green-500">improvement </span> </h1>
         <h2 className = "font-heading px-20 pt-10 text-white text-[24px]"> What is Confusing?</h2>
         <p className = "font-heading px-20 pt-10 text-white text-[20px]">Account-related information is not prominently positioned, while the social profile section appears at the top despite being less critical to primary user tasks. This hierarchy may distract users from essential account management actions.</p>
 =======
+=======
+>>>>>>> Stashed changes
         <h1 className = "font-heading px-20 pt-10 text-white text-[32px] font-bold">Areas of <span className = "text-green-500">Improvement</span>: </h1>
         <h2 className = "font-heading px-20 pt-4 text-white text-[24px] font-semibold"> What is Confusing?</h2>
         <p className = "font-heading px-20 text-white text-[18px]">• Account-related information is not prominently positioned, while the social profile section appears at the top despite being less critical to primary user tasks. This hierarchy may distract users from essential account management actions.</p>
@@ -16,13 +19,20 @@ function Improvement() {
         <p className = "font-heading px-20 pt-4 text-white text-[18px]">• Navigation is further hindered by the absence of a clearly visible search bar, relying solely on a search icon makes content discovery less intuitive.</p>
         <p className = "font-heading px-20 pt-4 text-white text-[18px]">• Finally, the platform lacks a clearly structured home page that effectively guides users to different areas of the application, resulting in an overwhelming initial experience.</p>
         
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </div>
     );
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 export default Improvement;
+=======
+export default Improvement;
+>>>>>>> Stashed changes
 =======
 export default Improvement;
 >>>>>>> Stashed changes
