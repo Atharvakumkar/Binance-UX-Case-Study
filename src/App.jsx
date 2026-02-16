@@ -3,16 +3,9 @@ import Binance  from "./components/binance";
 import Problem from "./components/bgandprb";
 import Logo from "./components/logo";
 import Improvement from "./components/improvement";
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 import Focus from "./components/focusareas";
 import Rework from "./components/myRework";
->>>>>>> Stashed changes
-=======
-import Focus from "./components/focusareas";
-import Rework from "./components/myRework";
->>>>>>> Stashed changes
+
 
 function App() {
   return (
@@ -23,14 +16,7 @@ function App() {
     <Binance/>
     <Problem/>
     <Improvement/>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
     <Focus/>
->>>>>>> Stashed changes
-=======
-    <Focus/>
->>>>>>> Stashed changes
     </div>
     </>
   );
