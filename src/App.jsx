@@ -5,6 +5,7 @@ import Logo from "./components/logo";
 import Improvement from "./components/improvement";
 import Focus from "./components/focusareas";
 import Rework from "./components/myRework";
+import Footer from "./components/footer";
 
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
     <Problem/>
     <Improvement/>
     <Focus/>
+    <Rework/>
+    <Footer/>
     </div>
     </>
   );
