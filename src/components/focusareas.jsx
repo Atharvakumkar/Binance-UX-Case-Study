@@ -20,7 +20,7 @@ function Focus() {
                         className="h-80 w-auto object-contain"
                     />
                     <p className="text-white mt-5 font-heading">
-                        Create a descriptive Home Page
+                        Create a better Home Page
                     </p>
                 </div>
 
